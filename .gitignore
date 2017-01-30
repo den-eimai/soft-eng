@@ -7,6 +7,8 @@
 .metadata
 bin/
 tmp/
+reports/
+*.ucls
 *.tmp
 *.bak
 *.swp
@@ -28,6 +30,8 @@ local.properties
 # PDT-specific
 .buildpath
 
+#PMD
+.pmd
 
 #################
 ## Visual Studio
